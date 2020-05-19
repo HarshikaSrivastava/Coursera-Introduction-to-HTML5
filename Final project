@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>final project </title>
+<body>
+<h2>Harshika Srivastava</h2>
+<nav>
+  <a href="/html/">ONE</a> 
+  <a href="/css/">TWO</a> 
+  <a href="/js/">THREE</a> 
+  <a href="/jquery/">FOUR</a>
+</nav>
+<h2>Favorite foods </h2>
+<ul>
+    <li>apple</li>
+    <li>Tomatoes</li>
+    <li>Beans</li>
+    <li>Onions</li>
+</ul>
+
+<h2> Achievements </h2>
+<label for="file">progress in this course:(100%)</label>
+<progress id="file" value="100" max="100"> 100% </progress>
+<br>
+<label for="file">progress in the specilization capstone:(20%)</label>
+<progress id="file" value="20" max="100"> 20% </progress>
+<br>
+<label for="file">progress in life goal:(80%)</label>
+<progress id="file" value="80" max="100"> 55% </progress>
+<br>
+<h2> More About Me </h2>
+<details>
+  <summary>My Childhood</summary>
+  <p> wings of fire </p>
+</details>
+<img src="http://intro-webdesign.com/images/newlogo.png">
+<br>
+<a href=intro to web design>This page was created by Anupam shukla & colleen van lent.to learn more about web design,visit intro to webdesign</a>
+</body
+</html>
